@@ -1,4 +1,4 @@
-<img src="https://github.com/alfbach/OCPday/img.png" alt="Red Hat" width="250" height="100">
+<img src="https://github.com/alfbach/OCPday/blob/master/img.png" width="450" height="120">
 
 
 # RedHat OpenShift 4.x Introduction Day
