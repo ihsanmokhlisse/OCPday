@@ -1,4 +1,4 @@
-![Red Hat](https://github.com/alfbach/OCPday/img.png | width=100)
+<img src="https://github.com/alfbach/OCPday/img.png" alt="Red Hat" width="250" height="100">
 
 
 # RedHat OpenShift 4.x Introduction Day
