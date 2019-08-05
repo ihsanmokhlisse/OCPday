@@ -1,2 +1,3 @@
-# OCPday
-OpenShift4 Partner Day 2019
+# RedHat OpenShift 4.x Introduction Day
+## for Advanced and Primium Red Hat Patners
+September 2019
