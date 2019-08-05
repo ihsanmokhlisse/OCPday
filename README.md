@@ -1,3 +1,6 @@
+![Red Hat](http://github.com/alfbach/OCPday/img.png)
+
+
 # RedHat OpenShift 4.x Introduction Day
 ## for Advanced and Primium Red Hat Patners
 September 2019
