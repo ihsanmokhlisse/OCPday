@@ -1,7 +1,7 @@
 <img src="https://github.com/alfbach/OCPday/blob/master/img.png" width="450" height="120">
 
 
-# RedHat OpenShift 4.x Introduction Day
+# Red Hat OpenShift 4.x Introduction Day
 ## for Advanced and Premium Red Hat Patners
 September 2019
 
