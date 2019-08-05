@@ -2,7 +2,7 @@
 
 
 # RedHat OpenShift 4.x Introduction Day
-## for Advanced and Primium Red Hat Patners
+## for Advanced and Premium Red Hat Patners
 September 2019
 
 In this repositiory you find the content of the event and usefull links to make you familar with the new release
