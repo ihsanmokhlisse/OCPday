@@ -2,14 +2,18 @@
 
 
 # Red Hat OpenShift 4.x Introduction Day
-## for Advanced and Premium Red Hat Patners
+## for Advanced and Premium Red Hat Partners
 September 2019
 
 In this repositiory you find the content of the event and usefull links to make you familar with the new release
 
-### LINKS
+## LINKS
+
+### OpenShift Leraning
 
 https://learn.openshift.com
+
+### OpenShift 4 Installer 
 
 https://cloud.openshift.com
 
