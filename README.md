@@ -9,17 +9,23 @@ In this repositiory you find the content of the event and usefull links to make 
 
 ## LINKS
 
-### OpenShift Leraning
+### OpenShift Learning
 
 https://learn.openshift.com
 
-### OpenShift 4 Installer 
+### OpenShift 4 Installer
 
 https://cloud.openshift.com
 
+### Git Reopsitory OpenShift
+
 https://github.com/openshift
 
+### Git Repository coreos
+
 https://github.com/coreos
+
+Learn to build OCI Containers with buildah
 
 https://www.katacoda.com/courses/containers-without-docker/building-container-images-with-buildah
 
