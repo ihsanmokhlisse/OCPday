@@ -9,6 +9,10 @@ In this repositiory you find the content of the event and usefull links to make 
 
 ## LINKS
 
+### Disconect Install OpenShift 4.2
+
+https://blog.openshift.com/openshift-4-2-disconnected-install/
+
 ### OpenShift Learning
 
 https://learn.openshift.com
